@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AnimationVectorDrawable</string>
+    <string name="change_image">Change image</string>
+</resources>
